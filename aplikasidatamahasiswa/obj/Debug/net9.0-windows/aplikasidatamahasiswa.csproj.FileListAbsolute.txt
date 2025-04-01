@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\aplikasidatamahasiswa\aplikasidatamahasiswa\bin\Debug\net9.0-windows\aplikasidatamahasiswa.exe
+C:\Users\ASUS\source\repos\aplikasidatamahasiswa\aplikasidatamahasiswa\bin\Debug\net9.0-windows\aplikasidatamahasiswa.deps.json
+C:\Users\ASUS\source\repos\aplikasidatamahasiswa\aplikasidatamahasiswa\bin\Debug\net9.0-windows\aplikasidatamahasiswa.runtimeconfig.json
+C:\Users\ASUS\source\repos\aplikasidatamahasiswa\aplikasidatamahasiswa\bin\Debug\net9.0-windows\aplikasidatamahasiswa.dll
+C:\Users\ASUS\source\repos\aplikasidatamahasiswa\aplikasidatamahasiswa\bin\Debug\net9.0-windows\aplikasidatamahasiswa.pdb
+C:\Users\ASUS\source\repos\aplikasidatamahasiswa\aplikasidatamahasiswa\obj\Debug\net9.0-windows\aplikasidatamahasiswa.Form1.resources
+C:\Users\ASUS\source\repos\aplikasidatamahasiswa\aplikasidatamahasiswa\obj\Debug\net9.0-windows\aplikasidatamahasiswa.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\aplikasidatamahasiswa\aplikasidatamahasiswa\obj\Debug\net9.0-windows\aplikasidatamahasiswa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\aplikasidatamahasiswa\aplikasidatamahasiswa\obj\Debug\net9.0-windows\aplikasidatamahasiswa.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\aplikasidatamahasiswa\aplikasidatamahasiswa\obj\Debug\net9.0-windows\aplikasidatamahasiswa.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\aplikasidatamahasiswa\aplikasidatamahasiswa\obj\Debug\net9.0-windows\aplikasidatamahasiswa.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\aplikasidatamahasiswa\aplikasidatamahasiswa\obj\Debug\net9.0-windows\aplikasidatamahasiswa.dll
+C:\Users\ASUS\source\repos\aplikasidatamahasiswa\aplikasidatamahasiswa\obj\Debug\net9.0-windows\refint\aplikasidatamahasiswa.dll
+C:\Users\ASUS\source\repos\aplikasidatamahasiswa\aplikasidatamahasiswa\obj\Debug\net9.0-windows\aplikasidatamahasiswa.pdb
+C:\Users\ASUS\source\repos\aplikasidatamahasiswa\aplikasidatamahasiswa\obj\Debug\net9.0-windows\aplikasidatamahasiswa.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\aplikasidatamahasiswa\aplikasidatamahasiswa\obj\Debug\net9.0-windows\ref\aplikasidatamahasiswa.dll
