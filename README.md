@@ -5,8 +5,17 @@ Prodi, mahasiswa mengisi program studi nya masing masing
 Kelas, mahasiswa mengisi kelas 
 Tempat/tanggal lahir, mahasiswa mengisi tempat tanggal lahir sesuai data asli 
 Gender, mahasiswa akan memilih antara jenis kelamin laki - laki atau perempuan 
+Upload, mengisi foto pribadi berdasarkan file yang ada di folder
 Button HAPUS, button ini digunakan untuk menghapus inputan data mahasiswa 
 Button SIMPAN, button ini digunakan untuk menyimpan data diri mahasiswa yang telah di inputkan 
 Button Tampilkan, button ini digunakan untuk menampilkan hasil inputan data diri mahasiswa 
 Button Update, button ini digunakan untuk mengubah data yang salah
-![{264C358B-B163-452F-8134-B10C440052A6}](https://github.com/user-attachments/assets/f7a340fb-ddee-47b8-87d7-216f6f4d7d39)
+dimulai dari :
+login 
+kemudian diarahkan ke DASHBOARD didalamnya terdapat menu : input data , lihat data & log out
+![image](https://github.com/user-attachments/assets/e90c2e40-d471-4b3f-82c5-60776a78d026)
+![image](https://github.com/user-attachments/assets/cac39d0c-3961-4533-9400-d3afa2210168)
+![image](https://github.com/user-attachments/assets/d0369141-ece3-4a92-a0d1-a974c49ece20)
+
+
+
